@@ -8,7 +8,7 @@ portrait = "/portraits/wenxugao.jpg"
 short_bio = ""
 short_name = ""
 title = "Wenxu Gao, PhD Student"
-sort_position = 7
+sort_position = 5
 role = "phd"
 
 [[social]]

@@ -34,7 +34,7 @@ role = "faculty"
 
 [[organizations]]
     name = "Peking University"
-    role = "Assistant Professor, Ph.D. Supervisor (助理教授/副研究员/博士生导师)"
+    role = "Assistant Professor, Ph.D. Supervisor (助理教授/研究员/博士生导师)"
 
 [[awards]]
     name = "2024 CSIG Natural Science Award - Second Prize (Theories and Methods for Multimodal Vision Perception with Restricted Environments)"

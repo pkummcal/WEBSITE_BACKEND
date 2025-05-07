@@ -10,11 +10,11 @@
                 {{ with .Site.Params.publications.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
             </div>
 
-            <div class="col-xs-12 col-md-8">
+            <!-- <div class="col-xs-12 col-md-8">
                 {{ range first .Site.Params.publications.count (sort (where .Site.RegularPages "Type" "publication") ".Params.sort_position") }}
                     {{ partial "publication_li_detailed" . }}
                 {{ end }}
-            </div>
+            </div> -->
         </div>
 
         <!-- Link to all publications -->
