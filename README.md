@@ -1,57 +1,32 @@
-# Website Backend
+# MMCAL
+An academic group website theme for Hugo.
+https://pkummcal.github.io/
 
-This is the hugo respository of the academic website of the Intelligent Video & Perception Group. You can follow this guidance to edit and publish content on our website.
+## Installation
+1. Install [Hugo](https://gohugo.io/).
+2. Navigate to the root directory of your website and run the Hugo server:
+```bash
+hugo server --watch
+```
+Then, open [localhost:1313](localhost:1313) in your browser, and you should be able to view your website.
 
-### 1. Install Hugo
+## Modification Guide
+**Note**: Modifying files within the `/public` directory is ineffective. Once you redeploy the website using the `hugo` command, all content in this directory will be updated.
 
-Install hugo from official site: https://gohugo.io/
+### /content Directory
+This directory primarily stores textual content.
+```
+/member: Each student's personal information, including portrait, name, and research interests, will be automatically updated on the laboratory homepage.
+/post: Content for the News section.
+/publications: Content for the Publications section.
+about.md & joinus.md: Correspond to the "About" and "Join us" sections in the navigation bar respectively.
+patent-standardization.md: Located under the "Patent & Standardization" item in the Publications section of the navigation bar.
+codes.md, /datasets.md, /approach.md: These files are now deprecated.
+```
 
-### 2. Clone this Repo
-
-`git clone git@github.com:PKU-IVP/website_backend.git`
-
-### 3. Edit the Content
-
-`cd website_backend`
-
-Start a local hugo server for website preview:
-
-`hugo server --watch`
-
-Then you can view the site on `http://localhost:1313`
-
-You can edit the content by markdown in `\content` directory, the modification will be updated on local site in real time
-
-For more usage of hugo, you can view:
-
-https://gohugo.io/documentation/
-
-https://olowolo.com/post/hugo-quick-start/
-
-### 4. Generate and Deploy
-
-After modification, generate the static page (html/css style):
-
-`hugo`
-
-Then you can get the static source on `\public` folder
-
-Clone the github page repo:
-
-`git clone https://github.com/PKU-IVP/pku-ivp.github.io`
-
-Copy the new content to github page repo:
-
-`cp -r .\public\* The_directory_of_pku-ivp.github.io`
-
-Deployment:
-
-`cd The_directory_of_pku-ivp.github.io `
-
-`git add .`
-
-`git commit -m "[+]Update website with XXXX"`
-
-`git push -u origin master`
-
-### 5. Don't Forget to Update this repo
+### /themes/hugo-academic-groups Directory
+```
+/archetypes & /exampleSite: These contain the original template content. It is recommended not to modify them.
+/layout/partials/index: Controls the specific content of the page. The content corresponding to the "News" section on the homepage is defined in the post.html file.
+Other directories generally do not require modification.
+``` 
