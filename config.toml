@@ -27,7 +27,7 @@ tag = "tags"
 
 [params.logo]
     link = "/#top"
-    image = "header_logo_mmcal.png"
+    image = "mmcal_logo.png"
 
 #[[params.slogan_columns]]
 #    title = "About"
