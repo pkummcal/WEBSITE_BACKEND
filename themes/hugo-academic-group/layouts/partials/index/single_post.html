@@ -1,0 +1,22 @@
+<div class="article-list-item" itemscope itemprop="blogPost">
+  {{ if .Params.image }}
+      <a href="{{ .Permalink }}">
+          <img src="{{ $.Site.BaseURL }}/img/{{ .Params.image }}" class="article-banner" itemprop="image">
+      </a>
+  {{end}}
+
+  <!-- 主页 News 板块 大标题 蓝色字-->
+  <h3 class="article-title" itemprop="name"><a href="{{ .Permalink }}" itemprop="url">{{ .Title }}</a></h3>
+  
+  <!-- 主页 News 板块 内容 黑色字-->
+  <p class="article-style" itemprop="articleBody">
+      {{ .Params.short_text }}
+  </p>
+  
+  <!-- 主页 News 板块 内容 read-more 按钮-->
+  <p class="read-more">
+      <a href="{{ .Permalink }}" class="btn btn-primary btn-outline">
+          {{ with .Site.Params.posts.str_read_more }}{{ . | markdownify }}{{ end }}
+      </a>
+  </p>
+</div>

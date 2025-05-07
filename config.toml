@@ -1,0 +1,192 @@
+layoutdir = "themes/hugo-academic-group/layouts"
+publishdir = "public"
+static = "/static"
+builddrafts = false
+# enableGitInfo = true
+# Replace this with your website URL
+baseurl = "https://pkummcal.github.io/"
+canonifyurls = true
+theme = "hugo-academic-group"
+title = "MMCAL | Peking University"
+math = true
+copyright = "&copy; Multimedia Computing and AI Lab, Peking University, 2025"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+
+[params]
+  description = "Website of the Multimedia Computing and AI Lab"
+  author = "Dinghao Yang"
+  email = "gaowei262@pku.edu.cn"
+  address = "PKU Campus, No. 2199, Lishui Road, Xili Lake, Nanshan District, Shenzhen 518055, China"
+
+  slogan = "Multimedia Computing and AI Lab"
+  slogan_text = "Focus on the multimedia/multimodal information processing theories, methods, and applications (especially immersive media communication and autonomous unmanned systems)."
+
+[params.logo]
+    link = "/#top"
+    image = "header_logo_mmcal.png"
+
+#[[params.slogan_columns]]
+#    title = "About"
+#    text =  "Focusing on the research topics of Immersive Video Coding, Image Processing & Computer Vision and Machine Learning & Deep Learning."
+#	link = "/about"
+#    link_text = "About Us"
+#    weight = 1
+  
+ # [[params.slogan_columns]]
+ #   title = "Mission"
+ #   text = "Per peterem ex, Eurystheus videt maeonis, Paeonis uritur. Dextera [legem](http://nubibus.net/qualisardeat), contigerat optabile undis bene: abis sperato. Instrumenta arma, subiectas generis non ipsa patres quia magna Messeneque lacrimaeque torva. Aequo crescunt inrequieta feras, diu illa est occupat aequoribus hunc Elpenora tollens vult robore. Finiat priora vulnere nec Nelei fit quae totidemque intibaque iter longo."
+ #  link = "/mission"
+ #   link_text = "Read more"
+ #   weight = 2
+
+#  [[params.slogan_columns]]
+#    title = "Approach"
+#    text = "Lorem markdownum in texit! Quoniam ferar tabellis modo! Nam et spatiosumque puellae modo temperiemque mare canentis ministris **populisque** actus flammifera [dicta](http://www.geminoalpino.com/nec-pegason), non neque nutrit [recingunt Phrygiae](http://vitta-telamone.org/cyllenenquearcus.php). Pignoribus Phaestia Chaonis simulacraque viae et genus miratur moenibus tinnitibus ex simul."
+#    link = "/approach"
+#    link_text = "Read more"
+#    weight = 3
+
+  # Selected Publications section.
+  [params.publications_selected]
+    detailed_list = true
+    title = "Selected Publications"
+    subtitle = ""
+
+  # Publications section.
+  # Section will only be displayed if there are publications in `content/publication/`.
+  # [params.publications_jou]
+  #  count = 5
+  #  detailed_list = false
+  #  title = "Journal Papers"
+  #  subtitle = ""
+  #  str_all = "More Journal Papers"
+
+  # [params.publications_con]
+  #  count = 5
+  #  detailed_list = false
+  #  title = "Conference Papers"
+  #  subtitle = ""
+  #  str_all = "More Conference Papers"
+
+  [params.publications]
+   count = 5
+   detailed_list = false
+   title = "Publications"
+   subtitle = ""
+   str_all = "More Papers"
+
+  # Posts section.
+  # Section will only be displayed if there are posts in `content/post/`.
+  [params.posts]
+    count = 2
+    title = "News"
+  #  subtitle = ""
+  #  str_all = "More News"
+  #  str_read_more = "Read more"
+
+  # Projects section.
+  # Section will only be displayed if there are projects in `content/project/`.
+  [params.projects]
+    title = "Projects"
+    subtitle = ""
+    count = 3
+    str_all = "More Projects"
+  
+  # Vacancies section
+  # Section will only be displayed if there are valid vacancies in `content/vacancy`
+  [params.vacancies]
+    title = "Vacancies"
+    subtitle = ""
+    count = 3
+    str_all = "More Vacancies"
+
+  # Contact section.
+  [params.contact]
+    enable = true
+    title = "Contact"
+    subtitle = ""
+    autolink = false  # Automatically link email and phone?
+
+  # Navigation Links
+  #   The weight parameter defines the order that the links will appear in.
+
+  [[menu.main]]
+      name = "Home"
+      url = "/#top"
+      weight = 1
+
+  [[menu.main]]
+      name = "About"
+      url = "/about"
+      weight = 2
+
+  [[menu.main]]
+      name = "Team"
+      url = "/#members"
+      weight = 3
+
+  [[menu.main]]
+      name = "News"
+      url = "/#posts"
+      weight = 4
+
+  [[menu.main]]
+      identifier = "publications"
+      name = "Publications"
+      weight = 5
+
+  [[menu.main]]
+      parent = "publications"
+      name = "Journal & Conference Papers"
+      url = "/publication"
+      weight = 1
+
+  # [[menu.main]]
+  #    parent = "publications"
+  #    name = "Conference Papers"
+  #    url = "/publication_con"
+  #    weight = 2
+
+  [[menu.main]]
+      parent = "publications"
+      name = "Patents & Standardizations"
+      url = "/patent-standardization"
+      weight = 2
+
+  [[menu.main]]
+      identifier = "resources"
+      name = "Resources"
+      url = "/resource"
+      weight = 6
+
+#  [[menu.main]]
+#      parent = "resources"
+#      name = "Datasets"
+#      url = "/datasets"
+#      weight = 2
+
+#  [[menu.main]]
+#      parent = "resources"
+#      name = "Codes"
+#      url = "/codes"
+#      weight = 1    
+
+  [[menu.main]]
+      identifier = "research projects"
+      name = "Research Projects"
+      url = "/researchprojects"
+      weight = 7
+  
+  [[menu.main]]
+      name = "Join us"
+      url = "/joinus"
+      weight = 8
+
+  [[menu.main]]
+      name = "Contact"
+      url = "/#contact"
+      weight = 9

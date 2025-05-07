@@ -1,0 +1,33 @@
+{{ $pubs_len := len (where .Site.RegularPages "Type" "publication_con") }}
+{{ if gt $pubs_len 0 }}
+<section id="publications_con" class="home-section">
+    <div class="container">
+        <div class="row">
+
+            <!-- Section heading -->
+            <div class="col-xs-12 col-md-4 section-heading">
+                <h1><a href="{{.Site.BaseURL}}/publication_con/{{if .Site.Params.uglyURLs}}index.html{{end}}">{{ with .Site.Params.publications_con.title }}{{ . | markdownify }}{{ end }}</a></h1>
+                {{ with .Site.Params.publications_con.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+            </div>
+
+            <div class="col-xs-12 col-md-8">
+                {{ range first .Site.Params.publications_con.count (sort (where .Site.RegularPages "Type" "publication_con") ".Params.sort_position") }}
+                    {{ partial "publication_li_detailed" . }}
+                {{ end }}
+            </div>
+        </div>
+
+        <!-- Link to all publications -->
+        <div>
+            {{ if gt $pubs_len .Site.Params.publications_con.count }}
+            <p class="view-all">
+                <a href="{{ .Site.BaseURL }}/publication_con/{{if .Site.Params.uglyURLs}}index.html{{end}}">
+                    {{ with .Site.Params.publications_con.str_all }}{{ . | markdownify }}{{ end }}
+                    <i class="fa fa-angle-double-right"></i>
+                </a>
+            </p>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

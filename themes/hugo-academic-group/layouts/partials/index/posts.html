@@ -1,0 +1,48 @@
+{{ $posts_len := len (where (where .Site.RegularPages "Type" "post") ".Params.notonhomepage" nil) }}
+{{ if gt $posts_len 0 }}
+<section id="posts" class="home-section">
+    <div class="container">
+        <div class="row">
+            
+            <!-- Section heading -->
+            <div class="col-xs-12 col-md-4 section-heading">
+                <h1><a href="{{ $.Site.BaseURL }}/post/{{if .Site.Params.uglyURLs}}index.html{{end}}"> {{ with .Site.Params.posts.title }}{{ . | markdownify }}{{ end }}</a></h1>
+                {{ with .Site.Params.posts.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+            </div>
+            
+            <!-- Posts -->
+            <div class="col-xs-12 col-md-8">
+                <!-- {{ range first .Site.Params.posts.count (sort (where .Site.RegularPages "Type" "post") ".Params.sort_position") }}
+                    {{ partial "index/single_post" .}}
+                {{ end }} -->
+
+                <ul>
+                    <li style="color: rgb(139, 0, 18);">We are recruiting Excellent Postdocs, Ph.D.&M.Phil. Students, R&D Engineers at Peking University! </li>
+                    <li>2025/05 -- I was appointed as Associate Editor for ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM)! </li>
+                    <li>2025/04 -- One paper was accepted to IJCAI 2025! </li>
+                    <li>2025/04 -- One paper was accepted to IEEE TETCI! </li>
+                    <li>2025/04 -- My course “3D Vision & Computational Photography” was admitted to Peking University Graduate Course Construction Funding Project! </li>
+                    <li>2025/04 -- I was invited as the Area Chair of NeurIPS 2025! </li>
+                    <li>2025/03 -- I was invited as the Area Chair of ACM MM 2025! </li>
+                    <li>2025/02 -- We are organizing the International Workshop on Application-driven Point Cloud Processing and 3D Vision (APP3DV) (<a href="https://mm2025-app3dv-workshop.github.io/">Webpage</a>) at ACM MM 2025. Submission deadline: 11 July, 2025. Welcome to submit papers! </li>
+                    <li>2025/02 -- I will be the Tutorial Speaker for the Tutorial on AI-based Multimedia Data Compression: Perception Utility Optimization and Standardization (AIMDC) at ACM MM 2025! </li>
+                </ul>
+            </div>
+            
+        </div>
+
+        <!-- Link to all posts -->
+        <!-- <div>
+            {{ if gt $posts_len .Site.Params.posts.count }}
+                <p class="view-all">
+                    <a href="{{ .Site.BaseURL }}/post/{{if .Site.Params.uglyURLs}}index.html{{end}}">
+                        {{ with .Site.Params.posts.str_all }}{{ . | markdownify }}{{ end }}
+                        <i class="fa fa-angle-double-right"></i>
+                    </a>
+                </p>
+            {{ end }}
+        </div> -->
+        
+    </div>
+</section>
+{{ end }}

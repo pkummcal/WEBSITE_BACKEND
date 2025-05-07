@@ -1,0 +1,71 @@
+<section id="members" class="home-section">
+    <div class="container">
+        <!-- Section heading -->
+        <div class="row">
+            <div class="col-xs-12 col-md-4 section-heading">
+                <h1 class="section-heading">Team</h1>
+            </div>
+        </div>
+
+        <div class="justify-content-center inner-row">
+                <div class="text-row col-xs-12 col-md-4 section-heading">
+                    <h2 class="section-heading">Faculty</h2>
+                </div>
+        
+            <!-- Members -->
+                {{ range (sort (where .Site.RegularPages "Type" "member") ".Params.sort_position")}}
+                    {{if eq .Params.role "faculty"}}
+                        {{ if not .Params.is_former_member }}
+                            {{ partial "member_researcher" . }}
+                        {{ end }}
+                    {{end}}
+                {{ end }}
+
+                <div class="text-row col-xs-12 col-md-4 section-heading">
+                    <h2 class="section-heading">PhD Students</h2>
+                </div>
+
+                {{ range (sort (where .Site.RegularPages "Type" "member") ".Params.sort_position")}}
+                    {{if eq .Params.role "phd"}}
+                        {{ if not .Params.is_former_member }}
+                            {{ partial "member_simple" . }}
+                        {{ end }}
+                    {{end}}
+                {{ end }}
+
+                <div class="text-row col-xs-12 col-md-4 section-heading">
+                    <h2 class="section-heading">MPhil Students</h2>
+                </div>
+
+                {{ range (sort (where .Site.RegularPages "Type" "member") ".Params.sort_position")}}
+                    {{if eq .Params.role "mphil"}}
+                        {{ if not .Params.is_former_member }}
+                            {{ partial "member_simple" . }}
+                        {{ end }}
+                    {{end}}
+                {{ end }}
+
+                <div class="text-row col-xs-12 col-md-4 section-heading">
+                    <h2 class="section-heading">Alumni</h2>
+                </div>
+
+                {{ range (sort (where .Site.RegularPages "Type" "member") ".Params.sort_position")}}
+                    {{if eq .Params.role "Alumni"}}
+                        {{ if not .Params.is_former_member }}
+                            {{ partial "member_vistor" . }}
+                        {{ end }}
+                    {{end}}
+                {{ end }}
+            
+            <!-- Link to all members -->
+            <!-- <div>
+                <p class="view-all">
+                    <a href="{{ .Site.BaseURL }}/team/{{if .Site.Params.uglyURLs}}index.html{{end}}">
+                        Full team
+                        <i class="fa fa-angle-double-right"></i>
+                    </a>
+                </p>
+            </div> -->
+        </div>
+    </div>
+</section>
