@@ -2,7 +2,6 @@
 Title = "Publications"
 +++
 
-
 1.Songlin Fan, Wei Gao*, Zhineng Chen, Ge Li, Guoqing Liu, Qicheng Wang, “Stochasticity-aware No-Reference Point Cloud Quality Assessment,” International Joint Conference on Artificial Intelligence (IJCAI), 2025. [[IJCAI](https://gaowei262.github.io/pubs-sel.html)]
 
 2.Zhaojian Yao, Wei Gao*, Ge Li, Tiesong Zhao, “Collaborating Constrained and Unconstrained Encodings for Cross-Modal Salient Object Detection,” IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), 2025. [[IEEEXplore](https://gaowei262.github.io/pubs-sel.html)]
