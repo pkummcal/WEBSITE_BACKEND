@@ -137,9 +137,9 @@ tag = "tags"
 
 
   [[menu.main]]
-      identifier = "publications"
+      identifier = "Publications"
       name = "Publications"
-      url = "/publication"
+      url = "/publications"
       weight = 5
 
 #  [[menu.main]]
@@ -169,7 +169,7 @@ tag = "tags"
   [[menu.main]]
       identifier = "resources"
       name = "Resources"
-      url = "/recinguntesources"
+      url = "/resources"
       weight = 8
 
 #  [[menu.main]]
