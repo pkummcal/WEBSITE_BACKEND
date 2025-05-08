@@ -201,3 +201,6 @@ tag = "tags"
   [markup]
   [markup.goldmark.renderer]
   unsafe = true
+
+  [params]
+  favicon = "/img/favicon_new.png" 
