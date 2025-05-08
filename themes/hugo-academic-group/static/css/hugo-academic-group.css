@@ -787,6 +787,7 @@ footer a#back_to_top i {
 
 .navbar {
     min-height:5% !important;
+    width: 100%;
 }
 
 .navbar-default {
@@ -814,8 +815,10 @@ nav#navbar-main li {
 .navbar-brand,
 .navbar-nav li a {
     line-height: 60px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 10px; /* 新增，适当减小水平内边距 */
+    padding-right: 10px; /* 新增，适当减小水平内边距 */
 }
 
 .navbar-brand{
@@ -836,7 +839,7 @@ nav#navbar-main li {
     height: 60px;
     display:inline;
     float:inherit;
-    padding-right: 10px;
+    padding-right: 0;
     text-decoration: none;
 }
 

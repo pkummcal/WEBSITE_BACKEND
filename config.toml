@@ -126,24 +126,27 @@ tag = "tags"
 
   [[menu.main]]
       name = "Team"
-      url = "/#members"
+      url = "/team"
       weight = 3
 
   [[menu.main]]
+      identifier = "News"
       name = "News"
-      url = "/#posts"
+      url = "/news"
       weight = 4
+
 
   [[menu.main]]
       identifier = "publications"
       name = "Publications"
+      url = "/publication"
       weight = 5
 
-  [[menu.main]]
-      parent = "publications"
-      name = "Journal & Conference Papers"
-      url = "/publication"
-      weight = 1
+#  [[menu.main]]
+#      parent = "publications"
+#      name = "Journal & Conference Papers"
+#      url = "/publication"
+#      weight = 1
 
   # [[menu.main]]
   #    parent = "publications"
@@ -152,16 +155,22 @@ tag = "tags"
   #    weight = 2
 
   [[menu.main]]
-      parent = "publications"
-      name = "Patents & Standardizations"
-      url = "/patent-standardization"
-      weight = 2
+      identifier = "Patents"
+      name = "Patents"
+      url = "/patent"
+      weight = 6
+
+  [[menu.main]]
+      identifier = "Standardizations"
+      name = "Standardizations"
+      url = "/standardization"
+      weight = 7
 
   [[menu.main]]
       identifier = "resources"
       name = "Resources"
-      url = "/resource"
-      weight = 6
+      url = "/recinguntesources"
+      weight = 8
 
 #  [[menu.main]]
 #      parent = "resources"
@@ -179,14 +188,20 @@ tag = "tags"
       identifier = "research projects"
       name = "Research Projects"
       url = "/researchprojects"
-      weight = 7
+      weight = 9
   
   [[menu.main]]
       name = "Join us"
       url = "/joinus"
-      weight = 8
+      weight = 10
 
   [[menu.main]]
       name = "Contact"
       url = "/#contact"
-      weight = 9
+      weight = 11
+
+
+  # 令content目录下的md文件支持html语言
+  [markup]
+  [markup.goldmark.renderer]
+  unsafe = true
