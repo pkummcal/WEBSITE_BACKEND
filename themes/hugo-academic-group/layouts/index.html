@@ -16,6 +16,83 @@
 <!-- Vacancies -->
 <!-- {{ partial "index/open_projects.html" . }} -->
 
+<!-- Opening News Section -->
+{{ if .Site.Params.contact.enable }}
+<section id="contact" class="home-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-4 section-heading">
+                <h1>Opening News</h1>
+            </div>
+            <div class="col-xs-12 col-md-8">
+                <div class="hoverBox" 
+                     style="padding: 1.25rem; 
+                            flex: 1 1 auto; 
+                            box-sizing: border-box; 
+                            display: block; 
+                            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); 
+                            border-radius: 5px; 
+                            border: 1px solid #ccc; 
+                            transform: translateY(-5px); 
+                            transition: box-shadow 0.3s ease, transform 0.3s ease;">
+                    <h4>
+                        <span style="color: red">Postdoctoral Fellows</span>
+                    </h4>
+                    <div>
+                        <span></span>
+                    </div>
+                    <p>
+                        The MMCAL group at PKU seeks a top postdoctoral researcher proficient in multimedia coding & processing (e.g. 3D point cloud/image/video coding, intelligent coding, quality assessment, 3D Gaussian Splatting) and 3D vision & multimodal learning (e.g. unmanned systems, generative AI). The successful candidate will develop advanced computational methods at PKU. Please send a full CV with publications to Prof. Wei Gao.
+                    </p>
+                </div>
+                
+            </br>
+                <div class="hoverBox" 
+                     style="padding: 1.25rem; 
+                            flex: 1 1 auto; 
+                            box-sizing: border-box; 
+                            display: block; 
+                            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); 
+                            border-radius: 5px; 
+                            border: 1px solid #ccc; 
+                            transform: translateY(-5px); 
+                            transition: box-shadow 0.3s ease, transform 0.3s ease;">
+                    <h4>
+                        <span style="color: red">Mphil & Ph.D Students</span>
+                    </h4>
+                    <div>
+                        <span></span>
+                    </div>
+                    <p>
+                        The MMCAL group at PKU is looking for motivated Mphil and Ph.D. students in computer vision and signal processing. Please send a full CV with a complete list of your publications and projects, as well as, an unofficial academic transcript to Prof. Wei Gao.<br>
+                        国内学生请认真阅读<a href="https://gaowei262.github.io/Welcome-to-join-us.jpg">【2026招收硕士/博士研究生及访问学生申请须知】</a>。
+                    </p>
+                </div>
+            
+                <script>
+                    // 获取所有具有 hoverBox 类的元素
+                    const boxes = document.querySelectorAll('.hoverBox');
+            
+                    // 遍历元素并添加鼠标进入和离开事件监听器
+                    boxes.forEach(box => {
+                        box.addEventListener('mouseenter', function() {
+                            this.style.boxShadow = '0 8px 20px rgba(0, 0, 0, 0.2)';
+                            this.style.transform = 'translateY(-8px)';
+                        });
+            
+                        box.addEventListener('mouseleave', function() {
+                            this.style.boxShadow = '0 2px 8px rgba(0, 0, 0, 0.1)';
+                            this.style.transform = 'translateY(-5px)';
+                        });
+                    });
+                </script>
+            </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
 <!-- Contact Section -->
 {{ if .Site.Params.contact.enable }}
 <section id="contact" class="home-section">
@@ -29,11 +106,7 @@
                 {{ partial "home_contact.html" . }}
             </div>
         </div>
-        <div class="row" style="margin: auto; width: 116px; height: 116px; display: block;">
-            <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=SotmIz5pkSarUDYb3ZbiLIjKES-InJx20hOJ8JY0CB0"></script>
-        </div>
     </div>
-    {{ partial "sponsors.html" . }}
 </section>
 {{ end }}
 

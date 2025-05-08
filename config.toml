@@ -125,22 +125,28 @@ tag = "tags"
       weight = 2
 
   [[menu.main]]
+    identifier = "research projects"
+    name = "Research Projects"
+    url = "/researchprojects"
+    weight = 3
+
+  [[menu.main]]
       name = "Team"
       url = "/team"
-      weight = 3
+      weight = 4
 
   [[menu.main]]
       identifier = "News"
       name = "News"
       url = "/news"
-      weight = 4
+      weight = 5
 
 
   [[menu.main]]
       identifier = "Publications"
       name = "Publications"
       url = "/publications"
-      weight = 5
+      weight = 6
 
 #  [[menu.main]]
 #      parent = "publications"
@@ -155,15 +161,9 @@ tag = "tags"
   #    weight = 2
 
   [[menu.main]]
-      identifier = "Patents"
-      name = "Patents"
+      identifier = "Patents & Standardizations"
+      name = "Patents & Standardizations"
       url = "/patent"
-      weight = 6
-
-  [[menu.main]]
-      identifier = "Standardizations"
-      name = "Standardizations"
-      url = "/standardization"
       weight = 7
 
   [[menu.main]]
@@ -184,21 +184,17 @@ tag = "tags"
 #      url = "/codes"
 #      weight = 1    
 
-  [[menu.main]]
-      identifier = "research projects"
-      name = "Research Projects"
-      url = "/researchprojects"
-      weight = 9
-  
-  [[menu.main]]
-      name = "Join us"
-      url = "/joinus"
-      weight = 10
 
-  [[menu.main]]
-      name = "Contact"
-      url = "/#contact"
-      weight = 11
+  
+#  [[menu.main]]
+#      name = "Join us"
+#      url = "/joinus"
+#      weight = 10
+
+#  [[menu.main]]
+#      name = "Contact"
+#      url = "/#contact"
+#      weight = 11
 
 
   # 令content目录下的md文件支持html语言

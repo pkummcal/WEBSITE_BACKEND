@@ -7,7 +7,7 @@ Title = "Teams"
 <!-- Faculty -->
 <table>
     <tr>
-        <th colspan="4" style="text-align: center"><h2>Faculty</h2></th>
+        <th colspan="4" style="text-align: center"><h3>Faculty</h3></th>
     </tr>
     <tr>
         <!-- 路径以public目录下为准 -->
@@ -16,10 +16,34 @@ Title = "Teams"
         </th>
     </tr>
     <tr>
-        <th colspan="4" style="text-align: center"><h2><a href="https://gaowei262.github.io/">Wei Gao（高伟）</h2></th>
+        <th colspan="4" style="text-align: center"><h3><a href="https://gaowei262.github.io/">Wei Gao（高伟）</h3></th>
     </tr>
     <tr>
         <th colspan="4" style="text-align: center">Assistant Professor, Ph.D. Supervisor<br> (助理教授/研究员/博士生导师), Peking University</th>
+    </tr>
+</table>
+
+<!-- PostDoc -->
+<table>
+    <tr>
+        <th colspan="4" style="text-align: center"><h3>Faculty</h3></th>
+    </tr>
+    <tr>
+        <!-- 路径以public目录下为准 -->
+        <th colspan="2" style="text-align: center">
+            <img src="/img/portraits/gaowei.jpg" alt="Gaowei" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+        </th>
+        <th colspan="2" style="text-align: center">
+            <img src="/img/portraits/gaowei.jpg" alt="Gaowei" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+        </th>
+    </tr>
+    <tr>
+        <th colspan="2" style="text-align: center"><h3><a href="https://gaowei262.github.io/">Wei Gao（高伟）</h3></th>
+        <th colspan="2" style="text-align: center"><h3><a href="https://gaowei262.github.io/">Wei Gao（高伟）</h3></th>
+    </tr>
+    <tr>
+        <th colspan="2" style="text-align: center">Assistant Professor, Ph.D. Supervisor<br> (助理教授/研究员/博士生导师), Peking University</th>
+        <th colspan="2" style="text-align: center">Assistant Professor, Ph.D. Supervisor<br> (助理教授/研究员/博士生导师), Peking University</th>
     </tr>
 </table>
 
@@ -27,7 +51,7 @@ Title = "Teams"
 <table>
     <!-- 表头 -->
     <tr>
-        <th colspan="4" style="text-align: center"><h2>PhD Students</h2></th>
+        <th colspan="4" style="text-align: center"><h3>PhD Students</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">
@@ -44,10 +68,10 @@ Title = "Teams"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h2>Wang Liu(刘旺)</h2></th>
-        <th style="text-align: center"><h2>Huiming Zheng(郑惠明)</h2></th>
-        <th style="text-align: center"><h2>Liang Xie(谢良)</h2></th>
-        <th style="text-align: center"><h2>Wenxu Gao(高文旭)</h2></th>
+        <th style="text-align: center"><h3>Wang Liu(刘旺)</h3></th>
+        <th style="text-align: center"><h3>Huiming Zheng(郑惠明)</h3></th>
+        <th style="text-align: center"><h3>Liang Xie(谢良)</h3></th>
+        <th style="text-align: center"><h3>Wenxu Gao(高文旭)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">Deep Learning Based Image/video Restoration</th>
@@ -70,10 +94,10 @@ Title = "Teams"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h2>Shangkun Sun(孙上焜)</h2></th>
-        <th style="text-align: center"><h2>Junhong Lin(林俊鸿)</h2></th>
-        <th style="text-align: center"><h2>Qianxi Yi(易千喜)</h2></th>
-        <th style="text-align: center"><h2>Wei Cheng(程伟)</h2></th>
+        <th style="text-align: center"><h3>Shangkun Sun(孙上焜)</h3></th>
+        <th style="text-align: center"><h3>Junhong Lin(林俊鸿)</h3></th>
+        <th style="text-align: center"><h3>Qianxi Yi(易千喜)</h3></th>
+        <th style="text-align: center"><h3>Wei Cheng(程伟)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">Deep Learning Based Image/video Compression</th>
@@ -87,7 +111,7 @@ Title = "Teams"
 <table>
     <!-- 表头 -->
     <tr>
-        <th colspan="4" style="text-align: center"><h2>Mphil Students</h2></th>
+        <th colspan="4" style="text-align: center"><h3>Mphil Students</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">
@@ -104,10 +128,10 @@ Title = "Teams"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h2>Zhuozhen Yu(余卓臻)</h2></th>
-        <th style="text-align: center"><h2>Xingming Mou(牟星明)</h2></th>
-        <th style="text-align: center"><h2>Bowen Qu(瞿博文)</h2></th>
-        <th style="text-align: center"><h2>Yuan Li(栗源)</h2></th>
+        <th style="text-align: center"><h3>Zhuozhen Yu(余卓臻)</h3></th>
+        <th style="text-align: center"><h3>Xingming Mou(牟星明)</h3></th>
+        <th style="text-align: center"><h3>Bowen Qu(瞿博文)</h3></th>
+        <th style="text-align: center"><h3>Yuan Li(栗源)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
@@ -130,10 +154,10 @@ Title = "Teams"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h2>Haohui Li(李浩辉)</h2></th>
-        <th style="text-align: center"><h2>Chenhao Zhang(张晨昊)</h2></th>
-        <th style="text-align: center"><h2>Shuqing Luo(罗书卿)</h2></th>
-        <th style="text-align: center"><h2>Haoruo Liu(刘浩若)</h2></th>
+        <th style="text-align: center"><h3>Haohui Li(李浩辉)</h3></th>
+        <th style="text-align: center"><h3>Chenhao Zhang(张晨昊)</h3></th>
+        <th style="text-align: center"><h3>Shuqing Luo(罗书卿)</h3></th>
+        <th style="text-align: center"><h3>Haoruo Liu(刘浩若)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
@@ -156,10 +180,10 @@ Title = "Teams"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h2>Kaiyu Zheng(郑凯予)</h2></th>
-        <th style="text-align: center"><h2>Yao Li(李要)</h2></th>
-        <th style="text-align: center"><h2>Xiaoyu Liang(梁小雨)</h2></th>
-        <th style="text-align: center"><h2>Yuqi Ye(叶毓祺)</h2></th>
+        <th style="text-align: center"><h3>Kaiyu Zheng(郑凯予)</h3></th>
+        <th style="text-align: center"><h3>Yao Li(李要)</h3></th>
+        <th style="text-align: center"><h3>Xiaoyu Liang(梁小雨)</h3></th>
+        <th style="text-align: center"><h3>Yuqi Ye(叶毓祺)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">Point Cloud Compression</th>
@@ -182,10 +206,10 @@ Title = "Teams"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h2>Kangli Wang(王康立)</h2></th>
-        <th style="text-align: center"><h2>Changhao Peng(彭昌浩)</h2></th>
-        <th style="text-align: center"><h2>Shihao Li(李世豪)</h2></th>
-        <th style="text-align: center"><h2>Chengwei Wang(王诚威)</h2></th>
+        <th style="text-align: center"><h3>Kangli Wang(王康立)</h3></th>
+        <th style="text-align: center"><h3>Changhao Peng(彭昌浩)</h3></th>
+        <th style="text-align: center"><h3>Shihao Li(李世豪)</h3></th>
+        <th style="text-align: center"><h3>Chengwei Wang(王诚威)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
@@ -208,10 +232,10 @@ Title = "Teams"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h2>Zijian Zhang(张梓坚)</h2></th>
-        <th style="text-align: center"><h2>Linhui Wang(汪林辉)</h2></th>
-        <th style="text-align: center"><h2>Junlin Li(黎俊林)</h2></th>
-        <th style="text-align: center"><h2>Guanzhou Chen(陈冠洲)</h2></th>
+        <th style="text-align: center"><h3>Zijian Zhang(张梓坚)</h3></th>
+        <th style="text-align: center"><h3>Linhui Wang(汪林辉)</h3></th>
+        <th style="text-align: center"><h3>Junlin Li(黎俊林)</h3></th>
+        <th style="text-align: center"><h3>Guanzhou Chen(陈冠洲)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">Autonomous Driving</th>
@@ -224,27 +248,27 @@ Title = "Teams"
 <table>
     <!-- 表头 -->
     <tr>
-        <th colspan="4" style="text-align: center"><h2>Alumni</h2></th>
+        <th colspan="4" style="text-align: center"><h3>Alumni</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">
             <img src="/img/portraits/yuanhang.jpg" alt="YuanHang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/FanSonglin.jpg" alt="FanSonglin" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/fansonglin.jpg" alt="FanSonglin" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/CaiZhanyuan.jpg" alt="CaiZhanyuan" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/caizhanyuan.jpg" alt="CaiZhanyuan" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/ChenJianing.jpg" alt="ChenJianing" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/chenjianing.jpg" alt="ChenJianing" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h2>Hang Yuan(袁航)</h2></th>
-        <th style="text-align: center"><h2>Songlin Fan(范松林)</h2></th>
-        <th style="text-align: center"><h2>Zhanyuan Cai</h2></th>
-        <th style="text-align: center"><h2>Jianing Chen</h2></th>
+        <th style="text-align: center"><h3>Hang Yuan(袁航)</h3></th>
+        <th style="text-align: center"><h3>Songlin Fan(范松林)</h3></th>
+        <th style="text-align: center"><h3>Zhanyuan Cai</h3></th>
+        <th style="text-align: center"><h3>Jianing Chen</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">PhD Student, Peking University</th>
@@ -267,10 +291,10 @@ Title = "Teams"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h2>Lvfang Tao</h2></th>
-        <th style="text-align: center"><h2>Fangyu Shen</h2></th>
-        <th style="text-align: center"><h2>Xiaoyu Zhang</h2></th>
-        <th style="text-align: center"><h2>Linjie Zhou</h2></th>
+        <th style="text-align: center"><h3>Lvfang Tao</h3></th>
+        <th style="text-align: center"><h3>Fangyu Shen</h3></th>
+        <th style="text-align: center"><h3>Xiaoyu Zhang</h3></th>
+        <th style="text-align: center"><h3>Linjie Zhou</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">MPhil Student, Peking University</th>
@@ -293,10 +317,10 @@ Title = "Teams"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h2>Zixuan Guo</h2></th>
-        <th style="text-align: center"><h2>Dinghao Yang</h2></th>
-        <th style="text-align: center"><h2>Yang Guo</h2></th>
-        <th style="text-align: center"><h2>Guibiao Liao</h2></th>
+        <th style="text-align: center"><h3>Zixuan Guo</h3></th>
+        <th style="text-align: center"><h3>Dinghao Yang</h3></th>
+        <th style="text-align: center"><h3>Yang Guo</h3></th>
+        <th style="text-align: center"><h3>Guibiao Liao</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">MPhil Student, Peking University</th>
@@ -319,10 +343,10 @@ Title = "Teams"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h2>Yuyang Wu</h2></th>
-        <th style="text-align: center"><h2>Yang Wang(王洋)</h2></th>
-        <th style="text-align: center"><h2>Zhiyang Qi(祁志洋)</h2></th>
-        <th style="text-align: center"><h2>Xijing Lu(卢西婧)</h2></th>
+        <th style="text-align: center"><h3>Yuyang Wu</h3></th>
+        <th style="text-align: center"><h3>Yang Wang(王洋)</h3></th>
+        <th style="text-align: center"><h3>Zhiyang Qi(祁志洋)</h3></th>
+        <th style="text-align: center"><h3>Xijing Lu(卢西婧)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">MPhil Student, Peking University</th>
@@ -336,7 +360,7 @@ Title = "Teams"
         </th>
     </tr>
     <tr>
-        <th colspan="4" style="text-align: center"><h2>Zetao Yang(杨泽涛)</h2></th>
+        <th colspan="4" style="text-align: center"><h3>Zetao Yang(杨泽涛)</h3></th>
     </tr>
     <tr>
         <th colspan="4" style="text-align: center">MPhil Student, Peking University</th>
