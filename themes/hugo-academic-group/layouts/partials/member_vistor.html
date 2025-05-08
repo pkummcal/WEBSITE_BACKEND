@@ -1,10 +1,12 @@
+<!-- !Edit! Alumni Name -->
+
 <div class="col-xs-12 col-md-3">
     <div id="profile">
         <a href="{{ .Permalink }}">
             <div class="portrait" itemprop="image" style="background-image: url('{{ .Site.BaseURL }}/img/{{ .Params.portrait }}');"></div>
         </a>
         <div class="portrait-title">
-            <h2 itemprop="name"><a href="{{ .Permalink }}">{{ .Params.name }}</a></h2>
+            <h2 itemprop="name"><a href="{{ .Permalink }}" style="font-size: 22px;">{{ .Params.name }}</a></h2>
             {{ range .Params.organizations }}
                 <h4>{{ .role }}, {{.name}}</h4>
             {{ end }}

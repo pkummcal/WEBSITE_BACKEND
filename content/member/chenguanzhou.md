@@ -1,25 +1,25 @@
 +++
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
-id = "yangzetao"
-interests = ["Perception-inspired Intelligent Video Coding Optimization"]
-name = "Zetao Yang (杨泽涛)"
-portrait = "/portraits/yangzetao.jpg"
+id = "chenguanzhou"
+interests = ["Autonomous Driving"]
+name = "Guanzhou Chen (陈冠洲)"
+portrait = "/portraits/unknown.jpg"
 short_bio = ""
 short_name = ""
-title = "Zetao Yang, MPhil Student"
-sort_position = 19
-role = "Alumni"
+title = "Linhui Wang, MPhil Student"
+sort_position = 36
+role = "mphil"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:2543761065@qq.com"
+    link = "mailto:"
 
 [[education]]
     course = "MPhil student"
     institution = 'Peking University'
-    year = 'since 2021.9'
+    year = 'since 2025.9'
 
 [[organizations]]
     name = "Peking University"

@@ -2,9 +2,9 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "yuzhuozhen"
-interests = ["Perception-inspired Intelligent Video Coding Optimization"]
-name = "Zhuozhen Yu"
-portrait = "/portraits/unknown.jpg"
+interests = ["Deep Point Cloud Coding"]
+name = "Zhuozhen Yu (余卓臻)"
+portrait = "/portraits/yuzhuozhen.jpg"
 short_bio = ""
 short_name = ""
 title = "Zhuozhen Yu, MPhil Student"
