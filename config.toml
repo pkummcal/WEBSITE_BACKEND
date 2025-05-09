@@ -21,7 +21,7 @@ tag = "tags"
   author = "Dinghao Yang"
   email = "gaowei262@pku.edu.cn"
   address = "PKU Campus, No. 2199, Lishui Road, Xili Lake, Nanshan District, Shenzhen 518055, China"
-
+  favicon = "/img/favicon_new.png" 
   slogan = "Multimedia Computing and AI Lab"
   slogan_text = "Focus on the multimedia/multimodal information processing theories, methods, and applications (especially immersive media communication and autonomous unmanned systems)."
 
@@ -201,6 +201,3 @@ tag = "tags"
   [markup]
   [markup.goldmark.renderer]
   unsafe = true
-
-  [params]
-  favicon = "/img/favicon_new.png" 

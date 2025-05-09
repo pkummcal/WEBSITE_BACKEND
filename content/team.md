@@ -26,24 +26,24 @@ Title = "Teams"
 <!-- PostDoc -->
 <table>
     <tr>
-        <th colspan="4" style="text-align: center"><h3>Faculty</h3></th>
+        <th colspan="4" style="text-align: center"><h3>PostDoc</h3></th>
     </tr>
     <tr>
         <!-- 路径以public目录下为准 -->
         <th colspan="2" style="text-align: center">
-            <img src="/img/portraits/gaowei.jpg" alt="Gaowei" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/wangshunzhou.jpg" alt="WangShunzhou" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th colspan="2" style="text-align: center">
-            <img src="/img/portraits/gaowei.jpg" alt="Gaowei" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/sujingxuan.jpg" alt="SuJingxuan" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
-        <th colspan="2" style="text-align: center"><h3><a href="https://gaowei262.github.io/">Wei Gao（高伟）</h3></th>
-        <th colspan="2" style="text-align: center"><h3><a href="https://gaowei262.github.io/">Wei Gao（高伟）</h3></th>
+        <th colspan="2" style="text-align: center"><h3>Shunzhou Wang（汪顺舟）</h3></th>
+        <th colspan="2" style="text-align: center"><h3>Jingxuan Su（苏靖萱）</h3></th>
     </tr>
     <tr>
-        <th colspan="2" style="text-align: center">Assistant Professor, Ph.D. Supervisor<br> (助理教授/研究员/博士生导师), Peking University</th>
-        <th colspan="2" style="text-align: center">Assistant Professor, Ph.D. Supervisor<br> (助理教授/研究员/博士生导师), Peking University</th>
+        <th colspan="2" style="text-align: center">Low-level Vision</th>
+        <th colspan="2" style="text-align: center">3DGS and Quality Assessment</th>
     </tr>
 </table>
 
@@ -173,7 +173,7 @@ Title = "Teams"
             <img src="/img/portraits/yaoli.jpg" alt="LiYao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/unknown.jpg" alt="LiangXiaoyu" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/liangxiaoyu.jpg" alt="LiangXiaoyu" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
             <img src="/img/portraits/unknown.jpg" alt="YeYuqi" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
@@ -188,7 +188,7 @@ Title = "Teams"
     <tr>
         <th style="text-align: center">Point Cloud Compression</th>
         <th style="text-align: center">Model Compression and Acceleration</th>
-        <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
+        <th style="text-align: center">AIGC quality assessment，3D object detection</th>
         <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
     </tr>
     <tr>
@@ -246,11 +246,14 @@ Title = "Teams"
 </table>
 
 <table>
-    <!-- 表头 -->
+    <!-- Alunmi -->
     <tr>
         <th colspan="4" style="text-align: center"><h3>Alumni</h3></th>
     </tr>
     <tr>
+        <th style="text-align: center">
+            <img src="/img/portraits/yaozhaojian.jpg" alt="YaoZhaojian" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+        </th>
         <th style="text-align: center">
             <img src="/img/portraits/yuanhang.jpg" alt="YuanHang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
@@ -260,23 +263,23 @@ Title = "Teams"
         <th style="text-align: center">
             <img src="/img/portraits/caizhanyuan.jpg" alt="CaiZhanyuan" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
-        <th style="text-align: center">
-            <img src="/img/portraits/chenjianing.jpg" alt="ChenJianing" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
-        </th>
     </tr>
     <tr>
+        <th style="text-align: center"><h3>Zhaojian Yao(姚钊健)</h3></th>
         <th style="text-align: center"><h3>Hang Yuan(袁航)</h3></th>
         <th style="text-align: center"><h3>Songlin Fan(范松林)</h3></th>
         <th style="text-align: center"><h3>Zhanyuan Cai</h3></th>
-        <th style="text-align: center"><h3>Jianing Chen</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">PhD Student, Peking University</th>
-        <th style="text-align: center">PhD Student, Peking University</th>
-        <th style="text-align: center">MPhil Student, Peking University</th>
-        <th style="text-align: center">MPhil Student, Peking University</th>
+        <th style="text-align: center">PostDoc 2022-2024, Peking University</th>
+        <th style="text-align: center">PhD 2019-2024, Peking University</th>
+        <th style="text-align: center">PhD 2019-2024, Peking University</th>
+        <th style="text-align: center">MPhil, Peking University</th>
     </tr>
     <tr>
+        <th style="text-align: center">
+            <img src="/img/portraits/chenjianing.jpg" alt="ChenJianing" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+        </th>
         <th style="text-align: center">
             <img src="/img/portraits/taolvfang.jpg" alt="TaoLvfang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
@@ -286,23 +289,23 @@ Title = "Teams"
         <th style="text-align: center">
             <img src="/img/portraits/zhangxiaoyu.jpg" alt="ZhangXiaoyu" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
-        <th style="text-align: center">
-            <img src="/img/portraits/zhoulinjie.jpg" alt="ZhouLinjie" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
-        </th>
     </tr>
     <tr>
+        <th style="text-align: center"><h3>Jianing Chen</h3></th>
         <th style="text-align: center"><h3>Lvfang Tao</h3></th>
         <th style="text-align: center"><h3>Fangyu Shen</h3></th>
         <th style="text-align: center"><h3>Xiaoyu Zhang</h3></th>
-        <th style="text-align: center"><h3>Linjie Zhou</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">MPhil Student, Peking University</th>
-        <th style="text-align: center">MPhil Student, Peking University</th>
-        <th style="text-align: center">MPhil Student, Peking University</th>
-        <th style="text-align: center">MPhil Student, Peking University</th>
+        <th style="text-align: center">MPhil, Peking University</th>
+        <th style="text-align: center">MPhil, Peking University</th>
+        <th style="text-align: center">MPhil, Peking University</th>
+        <th style="text-align: center">MPhil, Peking University</th>
     </tr>
     <tr>
+        <th style="text-align: center">
+            <img src="/img/portraits/zhoulinjie.jpg" alt="ZhouLinjie" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+        </th>
         <th style="text-align: center">
             <img src="/img/portraits/guozixuan.jpg" alt="GuoZixuan" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
@@ -312,23 +315,23 @@ Title = "Teams"
         <th style="text-align: center">
             <img src="/img/portraits/guoyang.jpg" alt="GuoYang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
-        <th style="text-align: center">
-            <img src="/img/portraits/liaoguibiao.jpg" alt="LiaoGuibiao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
-        </th>
     </tr>
     <tr>
+        <th style="text-align: center"><h3>Linjie Zhou</h3></th>
         <th style="text-align: center"><h3>Zixuan Guo</h3></th>
         <th style="text-align: center"><h3>Dinghao Yang</h3></th>
         <th style="text-align: center"><h3>Yang Guo</h3></th>
-        <th style="text-align: center"><h3>Guibiao Liao</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">MPhil Student, Peking University</th>
-        <th style="text-align: center">MPhil Student, Peking University</th>
-        <th style="text-align: center">MPhil Student, Peking University</th>
-        <th style="text-align: center">MPhil Student, Peking University</th>
+        <th style="text-align: center">MPhil, Peking University</th>
+        <th style="text-align: center">MPhil, Peking University</th>
+        <th style="text-align: center">MPhil, Peking University</th>
+        <th style="text-align: center">MPhil, Peking University</th>
     </tr>
     <tr>
+        <th style="text-align: center">
+            <img src="/img/portraits/liaoguibiao.jpg" alt="LiaoGuibiao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+        </th>
         <th style="text-align: center">
             <img src="/img/portraits/wuyuyang.png" alt="WuYuyang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
@@ -338,31 +341,33 @@ Title = "Teams"
         <th style="text-align: center">
             <img src="/img/portraits/qizhiyang.jpg" alt="QiZhiyang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
-        <th style="text-align: center">
-            <img src="/img/portraits/luxijing.jpg" alt="LuXijing" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
-        </th>
     </tr>
     <tr>
+        <th style="text-align: center"><h3>Guibiao Liao</h3></th>
         <th style="text-align: center"><h3>Yuyang Wu</h3></th>
         <th style="text-align: center"><h3>Yang Wang(王洋)</h3></th>
         <th style="text-align: center"><h3>Zhiyang Qi(祁志洋)</h3></th>
-        <th style="text-align: center"><h3>Xijing Lu(卢西婧)</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">MPhil Student, Peking University</th>
-        <th style="text-align: center">MPhil Student, Peking University</th>
-        <th style="text-align: center">MPhil Student, Peking University</th>
-        <th style="text-align: center">MPhil Student, Peking University</th>
+        <th style="text-align: center">MPhil, Peking University</th>
+        <th style="text-align: center">MPhil, Peking University</th>
+        <th style="text-align: center">MPhil 2021-2024, Peking University</th>
+        <th style="text-align: center">MPhil 2021-2024, Peking University</th>
     </tr>
     <tr>
-        <th colspan="4" style="text-align: center">
+        <th colspan="2" style="text-align: center">
+            <img src="/img/portraits/luxijing.jpg" alt="LuXijing" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+        </th>
+        <th colspan="2" style="text-align: center">
             <img src="/img/portraits/yangzetao.jpg" alt="YangZetao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
-        <th colspan="4" style="text-align: center"><h3>Zetao Yang(杨泽涛)</h3></th>
+        <th colspan="2" style="text-align: center"><h3>Xijing Lu(卢西婧)</h3></th>
+        <th colspan="2" style="text-align: center"><h3>Zetao Yang(杨泽涛)</h3></th>
     </tr>
     <tr>
-        <th colspan="4" style="text-align: center">MPhil Student, Peking University</th>
+        <th colspan="2" style="text-align: center">MPhil 2021-2024, Peking University</th>
+        <th colspan="2" style="text-align: center">MPhil 2021-2024, Peking University</th>
     </tr>
 </table>
