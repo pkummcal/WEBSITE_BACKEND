@@ -69,7 +69,7 @@ Title = "Teams"
     </tr>
     <tr>
         <th style="text-align: center"><h3>Wang Liu(刘旺)</h3></th>
-        <th style="text-align: center"><h3>Huiming Zheng(郑惠明)</h3></th>
+        <th style="text-align: center"><h3>Huiming Zheng(郑慧明)</h3></th>
         <th style="text-align: center"><h3>Liang Xie(谢良)</h3></th>
         <th style="text-align: center"><h3>Wenxu Gao(高文旭)</h3></th>
     </tr>
@@ -268,13 +268,13 @@ Title = "Teams"
         <th style="text-align: center"><h3>Zhaojian Yao(姚钊健)</h3></th>
         <th style="text-align: center"><h3>Hang Yuan(袁航)</h3></th>
         <th style="text-align: center"><h3>Songlin Fan(范松林)</h3></th>
-        <th style="text-align: center"><h3>Zhanyuan Cai</h3></th>
+        <th style="text-align: center"><h3>Zhanyuan Cai(蔡占元)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">PostDoc 2022-2024, Peking University</th>
         <th style="text-align: center">PhD 2019-2024, Peking University</th>
         <th style="text-align: center">PhD 2019-2024, Peking University</th>
-        <th style="text-align: center">MPhil, Peking University</th>
+        <th style="text-align: center">MPhil 2019-2022, Peking University</th>
     </tr>
     <tr>
         <th style="text-align: center">
@@ -291,16 +291,16 @@ Title = "Teams"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h3>Jianing Chen</h3></th>
-        <th style="text-align: center"><h3>Lvfang Tao</h3></th>
-        <th style="text-align: center"><h3>Fangyu Shen</h3></th>
-        <th style="text-align: center"><h3>Xiaoyu Zhang</h3></th>
+        <th style="text-align: center"><h3>Jianing Chen(陈家宁)</h3></th>
+        <th style="text-align: center"><h3>Lvfang Tao(陶履方)</h3></th>
+        <th style="text-align: center"><h3>Fangyu Shen(沈芳羽)</h3></th>
+        <th style="text-align: center"><h3>Xiaoyu Zhang(张晓玉)</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">MPhil, Peking University</th>
-        <th style="text-align: center">MPhil, Peking University</th>
-        <th style="text-align: center">MPhil, Peking University</th>
-        <th style="text-align: center">MPhil, Peking University</th>
+        <th style="text-align: center">MPhil 2019-2022, Peking University</th>
+        <th style="text-align: center">MPhil 2019-2022, Peking University</th>
+        <th style="text-align: center">MPhil 2019-2022, Peking University</th>
+        <th style="text-align: center">MPhil 2019-2022, Peking University</th>
     </tr>
     <tr>
         <th style="text-align: center">
@@ -317,16 +317,16 @@ Title = "Teams"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h3>Linjie Zhou</h3></th>
-        <th style="text-align: center"><h3>Zixuan Guo</h3></th>
-        <th style="text-align: center"><h3>Dinghao Yang</h3></th>
-        <th style="text-align: center"><h3>Yang Guo</h3></th>
+        <th style="text-align: center"><h3>Linjie Zhou(周琳洁)</h3></th>
+        <th style="text-align: center"><h3>Zixuan Guo(郭子轩)</h3></th>
+        <th style="text-align: center"><h3>Dinghao Yang(杨丁豪)</h3></th>
+        <th style="text-align: center"><h3>Yang Guo(郭洋)</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">MPhil, Peking University</th>
-        <th style="text-align: center">MPhil, Peking University</th>
-        <th style="text-align: center">MPhil, Peking University</th>
-        <th style="text-align: center">MPhil, Peking University</th>
+        <th style="text-align: center">MPhil 2019-2022, Peking University</th>
+        <th style="text-align: center">MPhil 2019-2022, Peking University</th>
+        <th style="text-align: center">MPhil 2020-2023, Peking University</th>
+        <th style="text-align: center">MPhil 2020-2023, Peking University</th>
     </tr>
     <tr>
         <th style="text-align: center">
@@ -343,14 +343,14 @@ Title = "Teams"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h3>Guibiao Liao</h3></th>
-        <th style="text-align: center"><h3>Yuyang Wu</h3></th>
+        <th style="text-align: center"><h3>Guibiao Liao(廖桂标)</h3></th>
+        <th style="text-align: center"><h3>Yuyang Wu(伍宇阳)</h3></th>
         <th style="text-align: center"><h3>Yang Wang(王洋)</h3></th>
         <th style="text-align: center"><h3>Zhiyang Qi(祁志洋)</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">MPhil, Peking University</th>
-        <th style="text-align: center">MPhil, Peking University</th>
+        <th style="text-align: center">MPhil 2020-2023, Peking University</th>
+        <th style="text-align: center">MPhil 2020-2023, Peking University</th>
         <th style="text-align: center">MPhil 2021-2024, Peking University</th>
         <th style="text-align: center">MPhil 2021-2024, Peking University</th>
     </tr>
