@@ -193,10 +193,10 @@ Title = "Teams"
     </tr>
     <tr>
         <th style="text-align: center">
-            <img src="/img/portraits/changhaopeng.jpg" alt="PengChanghao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/kangliwang.jpg" alt="WangKangli" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/kangliwang.jpg" alt="WangKangli" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/changhaopeng.jpg" alt="PengChanghao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
             <img src="/img/portraits/shihaoli.jpg" alt="LiShihao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
