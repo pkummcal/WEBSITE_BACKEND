@@ -1,8 +1,8 @@
 +++
-Title = "Patents"
+Title = "Patents & Standardizations"
 +++
 
-# Patents
+# Patents & Standardizations
 
 <p>
     We have filed more than 100 PCT International/US/China patents in the fields of multimedia computing and AI, and have submitted more than 60 standard proposals. 
