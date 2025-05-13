@@ -2,9 +2,9 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "chengwei"
-interests = ["Deep Learning Based Image/video Compression"]
+interests = ["3DGS compression, LLM"]
 name = "Wei Cheng (程伟)"
-portrait = "/portraits/unknown.jpg"
+portrait = "/portraits/chengwei.jpg"
 short_bio = ""
 short_name = ""
 title = "Wei Cheng, PhD Student"

@@ -90,7 +90,7 @@ Title = "People"
             <img src="/img/portraits/unknown.jpg" alt="YiQianxi" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/unknown.jpg" alt="ChengWei" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/chengwei.jpg" alt="ChengWei" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
@@ -103,7 +103,7 @@ Title = "People"
         <th style="text-align: center">Deep Learning Based Image/video Compression</th>
         <th style="text-align: center">Autonomous Driving</th>
         <th style="text-align: center">Deep Learning Based Image/video Compression</th>
-        <th style="text-align: center">Deep Learning Based Image/video Compression</th>
+        <th style="text-align: center">3DGS compression, LLM</th>
     </tr>
 </table>
 
