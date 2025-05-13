@@ -1,5 +1,5 @@
 +++
-Title = "Research projects"
+Title = "Resources"
 +++
 
 # Resources

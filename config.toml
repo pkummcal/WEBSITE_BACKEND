@@ -123,24 +123,22 @@ tag = "tags"
       name = "About"
       url = "/about"
       weight = 2
-
-  [[menu.main]]
-    identifier = "research projects"
-    name = "Research Projects"
-    url = "/researchprojects"
-    weight = 3
-
-  [[menu.main]]
-      name = "Team"
-      url = "/team"
-      weight = 4
-
+    
   [[menu.main]]
       identifier = "News"
       name = "News"
       url = "/news"
-      weight = 5
+      weight = 3
+      
+  [[menu.main]]
+      name = "People"
+      url = "/people"
+      weight = 4
 
+  [[menu.main]]
+      name = "Research"
+      url = "/researchprojects"
+      weight = 5
 
   [[menu.main]]
       identifier = "Publications"
@@ -148,17 +146,6 @@ tag = "tags"
       url = "/publications"
       weight = 6
 
-#  [[menu.main]]
-#      parent = "publications"
-#      name = "Journal & Conference Papers"
-#      url = "/publication"
-#      weight = 1
-
-  # [[menu.main]]
-  #    parent = "publications"
-  #    name = "Conference Papers"
-  #    url = "/publication_con"
-  #    weight = 2
 
   [[menu.main]]
       identifier = "Patents & Standardizations"
@@ -171,6 +158,19 @@ tag = "tags"
       name = "Resources"
       url = "/resources"
       weight = 8
+
+#  [[menu.main]]
+#      parent = "publications"
+#      name = "Journal & Conference Papers"
+#      url = "/publication"
+#      weight = 1
+
+#  [[menu.main]]
+#      parent = "publications"
+#      name = "Conference Papers"
+#      url = "/publication_con"
+#      weight = 2
+
 
 #  [[menu.main]]
 #      parent = "resources"

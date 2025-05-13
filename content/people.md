@@ -1,9 +1,9 @@
 +++
-Title = "Teams"
+Title = "People"
 
 +++
 
-# Teams
+# People
 <!-- Faculty -->
 <table>
     <tr>
@@ -23,10 +23,10 @@ Title = "Teams"
     </tr>
 </table>
 
-<!-- PostDoc -->
+<!-- PostDoc Fellows -->
 <table>
     <tr>
-        <th colspan="4" style="text-align: center"><h3>PostDoc</h3></th>
+        <th colspan="4" style="text-align: center"><h3>PostDoc Fellows</h3></th>
     </tr>
     <tr>
         <!-- 路径以public目录下为准 -->
@@ -271,10 +271,10 @@ Title = "Teams"
         <th style="text-align: center"><h3>Zhanyuan Cai(蔡占元)</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">PostDoc 2022-2024, Peking University</th>
-        <th style="text-align: center">PhD 2019-2024, Peking University</th>
-        <th style="text-align: center">PhD 2019-2024, Peking University</th>
-        <th style="text-align: center">MPhil 2019-2022, Peking University</th>
+        <th style="text-align: center">PostDoc 2022-2024</th>
+        <th style="text-align: center">PhD 2019-2024</th>
+        <th style="text-align: center">PhD 2019-2024</th>
+        <th style="text-align: center">MPhil 2019-2022</th>
     </tr>
     <tr>
         <th style="text-align: center">
@@ -297,10 +297,10 @@ Title = "Teams"
         <th style="text-align: center"><h3>Xiaoyu Zhang(张晓玉)</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">MPhil 2019-2022, Peking University</th>
-        <th style="text-align: center">MPhil 2019-2022, Peking University</th>
-        <th style="text-align: center">MPhil 2019-2022, Peking University</th>
-        <th style="text-align: center">MPhil 2019-2022, Peking University</th>
+        <th style="text-align: center">MPhil 2019-2022</th>
+        <th style="text-align: center">MPhil 2019-2022</th>
+        <th style="text-align: center">MPhil 2019-2022</th>
+        <th style="text-align: center">MPhil 2019-2022</th>
     </tr>
     <tr>
         <th style="text-align: center">
@@ -323,10 +323,10 @@ Title = "Teams"
         <th style="text-align: center"><h3>Yang Guo(郭洋)</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">MPhil 2019-2022, Peking University</th>
-        <th style="text-align: center">MPhil 2019-2022, Peking University</th>
-        <th style="text-align: center">MPhil 2020-2023, Peking University</th>
-        <th style="text-align: center">MPhil 2020-2023, Peking University</th>
+        <th style="text-align: center">MPhil 2019-2022</th>
+        <th style="text-align: center">MPhil 2019-2022</th>
+        <th style="text-align: center">MPhil 2020-2023</th>
+        <th style="text-align: center">MPhil 2020-2023</th>
     </tr>
     <tr>
         <th style="text-align: center">
@@ -349,10 +349,10 @@ Title = "Teams"
         <th style="text-align: center"><h3>Zhiyang Qi(祁志洋)</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">MPhil 2020-2023, Peking University</th>
-        <th style="text-align: center">MPhil 2020-2023, Peking University</th>
-        <th style="text-align: center">MPhil 2021-2024, Peking University</th>
-        <th style="text-align: center">MPhil 2021-2024, Peking University</th>
+        <th style="text-align: center">MPhil 2020-2023</th>
+        <th style="text-align: center">MPhil 2020-2023</th>
+        <th style="text-align: center">MPhil 2021-2024</th>
+        <th style="text-align: center">MPhil 2021-2024</th>
     </tr>
     <tr>
         <th colspan="2" style="text-align: center">
@@ -367,7 +367,7 @@ Title = "Teams"
         <th colspan="2" style="text-align: center"><h3>Zetao Yang(杨泽涛)</h3></th>
     </tr>
     <tr>
-        <th colspan="2" style="text-align: center">MPhil 2021-2024, Peking University</th>
-        <th colspan="2" style="text-align: center">MPhil 2021-2024, Peking University</th>
+        <th colspan="2" style="text-align: center">MPhil 2021-2024</th>
+        <th colspan="2" style="text-align: center">MPhil 2021-2024</th>
     </tr>
 </table>
