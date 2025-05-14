@@ -12,4 +12,4 @@ Title = "Resources"
 4. [OpenHardwareVC](https://git.openi.org.cn/OpenHardwareVC) (Open Source Project for AVS3 8K Encoding Hardware)
 5. [OpenCompression](https://git.openi.org.cn/OpenCompression) (Open Source Project for Visual Media Compression Optimization)
 6. [OpenVision](https://git.openi.org.cn/OpenVision) (Open Source Project for Computer Vision)
-7. [OpenDriving](https://openi.pcl.ac.cn/OpenAIDriving) (Open Sources for AI-based Autonomous Driving)
+7. [OpenAIDriving](https://openi.pcl.ac.cn/OpenAIDriving) (Open Sources for AI-based Autonomous Driving)

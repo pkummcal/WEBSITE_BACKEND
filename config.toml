@@ -136,7 +136,7 @@ tag = "tags"
       weight = 4
 
   [[menu.main]]
-      name = "Research"
+      name = "Research Projects"
       url = "/researchprojects"
       weight = 5
 
