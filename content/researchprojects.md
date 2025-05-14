@@ -142,7 +142,7 @@ Title = "Research projects"
         <img src="/img/ResearchProjects/section2/Sto.png" width="100" height="100" style="margin-right: 10px;">
         <div>
             <b>Stochasticity-aware No-Reference Point Cloud Quality Assessment</b> <br>
-            ***, ***, and <b>W. Gao</b> <br>
+            S. Fan, <b>W. Gao</b>, Z. Chen, G. Li, G. Liu, and Q. Wang <br>
             <b>IJCAI</b>, 2025. <br>
         </div>
     </div>
