@@ -141,7 +141,7 @@ Title = "People"
     </tr>
     <tr>
         <th style="text-align: center">
-            <img src="/img/portraits/unknown.jpg" alt="LiHaohui" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/lihaohui.jpg" alt="LiHaohui" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
            <img src="/img/portraits/chenhaozhang.jpg" alt="ZhangChenhao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
@@ -160,7 +160,7 @@ Title = "People"
         <th style="text-align: center"><h3>Haoruo Liu（刘浩若）</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
+        <th style="text-align: center">Image/Video Quality Assessment</th>
         <th style="text-align: center">Point Cloud Compression</th>
         <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
         <th style="text-align: center">Point Cloud Compression</th>

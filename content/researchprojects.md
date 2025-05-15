@@ -250,7 +250,7 @@ The research work includes light-weight algorithms and models, hardware accelera
         </div>
     </div>
     <div style="display: flex; padding: 10px; width: 100%; margin-bottom: 10px;">
-        <img src="/img/unknown.jpg" width="100" height="100" style="margin-right: 10px;">
+        <img src="/img/ResearchProjects/section3/opendic.png" width="100" height="100" style="margin-right: 10px;">
         <div>
             <b>OpenDIC: An Open-Source Library and Performance Evaluation for Deep-learning-based Image Compression</b> <br>
             <b>W. Gao*</b>, H. Zheng, C. Zhang, K. Zhang, Z. Yu, Y. Li, H. Ye and Y. Zhang<br>
@@ -258,15 +258,15 @@ The research work includes light-weight algorithms and models, hardware accelera
         </div>
     </div>
     <div style="display: flex; padding: 10px; width: 100%; margin-bottom: 10px;">
-        <img src="/img/unknown.jpg" width="100" height="100" style="margin-right: 10px;">
+        <img src="/img/ResearchProjects/section3/opendmc.png" width="100" height="100" style="margin-right: 10px;">
         <div>
             <b>OpenDMC: An Open-Source Library and Performance Evaluation for Deep-learning-based Multi-frame Compression</b> <br>
             <b>W. Gao*</b>, S. Sun, H. Zheng, Y. Wu, H. Ye and Y. Zhang<br>
             <b>ACM MM</b>, 2024. <br>
         </div>
     </div>
-    <div style="display: flex; padding: 10px; width: 100%; margin-bottom: 10px;">
-        <img src="/img/unknown.jpg" width="100" height="100" style="margin-right: 10px;">
+    <div style="display: flex; padding: 10px; height: auto; width: 100%; margin-bottom: 10px;">
+        <img src="/img/ResearchProjects/section3/openpointcloud.png" width="100" height="100" style="margin-right: 10px;">
         <div>
             <b>OpenPointCloud: An Open-Source Algorithm Library of Deep Learning Based Point Cloud Compression</b> <br>
             <b>W. Gao*</b>, H. Ye, G. Li, H. Zheng, Y. Wu and L. Xie<br>
@@ -289,8 +289,8 @@ The research work includes light-weight algorithms and models, hardware accelera
             <b>ICCV</b>, 2024. <br>
         </div>
     </div>
-    <div style="display: flex; padding: 10px; width: 100%; margin-bottom: 10px;">
-        <img src="/img/ResearchProjects/section3/Rate-Distortion-Guided.png" width="100" height="100" style="margin-right: 10px;">
+    <div style="display: flex; padding: 10px; width: 100%; margin-bottom: 10px; height: auto;">
+        <img src="/img/ResearchProjects/section3/Rate-Distortion-Guided.png"  style="margin-right: 10px; width: 100px; height: auto;">
         <div>
             <b>Rate-Distortion-Guided Learning Approach with Cross-Projection Information for V-PCC Fast CU Decision</b> <br>
             H. Yuan, <b>W. Gao*</b>, G. Li and Z. Li<br>
