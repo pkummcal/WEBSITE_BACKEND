@@ -42,8 +42,8 @@ Title = "People"
         <th colspan="2" style="text-align: center"><h3>Jingxuan Su (苏靖萱)</h3></th>
     </tr>
     <tr>
-        <th colspan="2" style="text-align: center">Low-level Vision</th>
-        <th colspan="2" style="text-align: center">3DGS and Quality Assessment</th>
+        <th colspan="2" style="text-align: center">Multimedia Processing</th>
+        <th colspan="2" style="text-align: center">Multimedia Processing</th>
     </tr>
 </table>
 
@@ -74,10 +74,10 @@ Title = "People"
         <th style="text-align: center"><h3 style="font-size:22px">Wenxu Gao (高文旭)</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">Image/Video and Point Cloud Enhancement</th>
-        <th style="text-align: center">AI-based Image/Video and Point Cloud Coding</th>
-        <th style="text-align: center">Deep Learning Based Image/video Compression</th>
-        <th style="text-align: center">Point Cloud Compression and Quality Assessment</th>
+        <th style="text-align: center">3D Point Cloud Enhancement</th>
+        <th style="text-align: center">AI-based Image/Video/3D Point Cloud Coding</th>
+        <th style="text-align: center">AI-based 3D Point Cloud Coding</th>
+        <th style="text-align: center">AI-based 3D Point Cloud Coding and Quality Assessment</th>
     </tr>
     <tr>
         <th style="text-align: center">
@@ -102,8 +102,8 @@ Title = "People"
     <tr>
         <th style="text-align: center">Multi-Modal Learning and Quality Assessment</th>
         <th style="text-align: center">Autonomous Driving</th>
-        <th style="text-align: center">Deep Learning Based Image/video Compression</th>
-        <th style="text-align: center">3DGS compression, LLM</th>
+        <th style="text-align: center">AI-based Image/Video Coding</th>
+        <th style="text-align: center">3D Gaussian Splatting Compression</th>
     </tr>
 </table>
 
@@ -134,10 +134,10 @@ Title = "People"
         <th style="text-align: center"><h3 style="font-size:22px">Yuan Li (栗源)</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
-        <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
-        <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
-        <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
+        <th style="text-align: center">AI-based 3D Point Cloud Coding</th>
+        <th style="text-align: center">Image/Video Coding and 3D</th>
+        <th style="text-align: center">Multimedia Quality Assessment</th>
+        <th style="text-align: center">AI-based Image/Video Coding</th>
     </tr>
     <tr>
         <th style="text-align: center">
@@ -160,10 +160,10 @@ Title = "People"
         <th style="text-align: center"><h3 style="font-size:22px">Haoruo Liu (刘浩若)</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">Image/Video Quality Assessment</th>
-        <th style="text-align: center">Point Cloud Compression</th>
-        <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
-        <th style="text-align: center">Point Cloud Compression</th>
+        <th style="text-align: center">Multimedia Quality Assessment</th>
+        <th style="text-align: center">AI-based Image/Video/3D Point Cloud Coding</th>
+        <th style="text-align: center">Multimodal Large Model</th>
+        <th style="text-align: center">AI-based 3D Point Cloud Coding</th>
     </tr>
     <tr>
         <th style="text-align: center">
@@ -186,10 +186,10 @@ Title = "People"
         <th style="text-align: center"><h3 style="font-size:22px">Yuqi Ye (叶毓祺)</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">Point Cloud Compression</th>
+        <th style="text-align: center">AI-based 3D Point Cloud Coding</th>
         <th style="text-align: center">Model Compression and Acceleration</th>
-        <th style="text-align: center">AIGC quality assessment，3D object detection</th>
-        <th style="text-align: center">LLM Understanding, Autonomous Driving</th>
+        <th style="text-align: center">Multimedia Quality Assessment and Autonomous Driving</th>
+        <th style="text-align: center">Multimodal Large Model and Autonomous Driving</th>
     </tr>
     <tr>
         <th style="text-align: center">
@@ -212,10 +212,10 @@ Title = "People"
         <th style="text-align: center"><h3 style="font-size:22px">Chengwei Wang (王诚威)</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
-        <th style="text-align: center">Point Cloud Compression and 3DGS</th>
-        <th style="text-align: center">Point Cloud Compression and 3DGS</th>
-        <th style="text-align: center">Point Cloud Compression and 3DGS</th>
+        <th style="text-align: center">3D Gaussian Splatting Compression</th>
+        <th style="text-align: center">Image/Video Coding and 3D</th>
+        <th style="text-align: center">3D Gaussian Splatting Compression</th>
+        <th style="text-align: center">3D Gaussian Splatting Compression</th>
     </tr>
     <tr>
         <th style="text-align: center">
