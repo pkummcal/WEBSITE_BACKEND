@@ -16,7 +16,7 @@ Title = "People"
         </th>
     </tr>
     <tr>
-        <th colspan="4" style="text-align: center"><h3><a href="https://gaowei262.github.io/">Wei Gao（高伟）</h3></th>
+        <th colspan="4" style="text-align: center"><h3><a href="https://gaowei262.github.io/">Wei Gao (高伟)</h3></th>
     </tr>
     <tr>
         <th colspan="4" style="text-align: center">Assistant Professor, Ph.D. Supervisor<br> (助理教授/研究员/博士生导师), Peking University</th>
@@ -38,8 +38,8 @@ Title = "People"
         </th>
     </tr>
     <tr>
-        <th colspan="2" style="text-align: center"><h3>Shunzhou Wang（汪顺舟）</h3></th>
-        <th colspan="2" style="text-align: center"><h3>Jingxuan Su（苏靖萱）</h3></th>
+        <th colspan="2" style="text-align: center"><h3>Shunzhou Wang (汪顺舟)</h3></th>
+        <th colspan="2" style="text-align: center"><h3>Jingxuan Su (苏靖萱)</h3></th>
     </tr>
     <tr>
         <th colspan="2" style="text-align: center">Low-level Vision</th>
@@ -68,10 +68,10 @@ Title = "People"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h3>Wang Liu（刘旺）</h3></th>
-        <th style="text-align: center"><h3>Huiming Zheng（郑慧明）</h3></th>
-        <th style="text-align: center"><h3>Liang Xie（谢良）</h3></th>
-        <th style="text-align: center"><h3>Wenxu Gao（高文旭）</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Wang Liu (刘旺)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Huiming Zheng (郑慧明)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Liang Xie (谢良)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Wenxu Gao (高文旭)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">Image/Video and Point Cloud Enhancement</th>
@@ -81,7 +81,7 @@ Title = "People"
     </tr>
     <tr>
         <th style="text-align: center">
-            <img src="/img/portraits/unknown.jpg" alt="SunShangkun" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/sunshangkun.png" alt="SunShangkun" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
            <img src="/img/portraits/junhonglin.jpg" alt="LinJunhong" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
@@ -94,13 +94,13 @@ Title = "People"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h3>Shangkun Sun（孙上焜）</h3></th>
-        <th style="text-align: center"><h3>Junhong Lin（林俊鸿）</h3></th>
-        <th style="text-align: center"><h3>Qianxi Yi（易千喜）</h3></th>
-        <th style="text-align: center"><h3>Wei Cheng（程伟）</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Shangkun Sun (孙上焜)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Junhong Lin (林俊鸿)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Qianxi Yi (易千喜)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Wei Cheng (程伟)</h3></th>
     </tr>
     <tr>
-        <th style="text-align: center">Deep Learning Based Image/video Compression</th>
+        <th style="text-align: center">Multi-Modal Learning and Quality Assessment</th>
         <th style="text-align: center">Autonomous Driving</th>
         <th style="text-align: center">Deep Learning Based Image/video Compression</th>
         <th style="text-align: center">3DGS compression, LLM</th>
@@ -111,7 +111,7 @@ Title = "People"
 <table>
     <!-- 表头 -->
     <tr>
-        <th colspan="4" style="text-align: center"><h3>Mphil Students</h3></th>
+        <th colspan="4" style="text-align: center"><h3>MPhil Students</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">
@@ -128,10 +128,10 @@ Title = "People"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h3>Zhuozhen Yu（余卓臻）</h3></th>
-        <th style="text-align: center"><h3>Xingming Mou（牟星明）</h3></th>
-        <th style="text-align: center"><h3>Bowen Qu（瞿博文）</h3></th>
-        <th style="text-align: center"><h3>Yuan Li（栗源）</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Zhuozhen Yu (余卓臻)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Xingming Mou (牟星名)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Bowen Qu (瞿博文)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Yuan Li (栗源)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
@@ -154,10 +154,10 @@ Title = "People"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h3>Haohui Li（李浩辉）</h3></th>
-        <th style="text-align: center"><h3>Chenhao Zhang（张晨昊）</h3></th>
-        <th style="text-align: center"><h3>Shuqing Luo（罗书卿）</h3></th>
-        <th style="text-align: center"><h3>Haoruo Liu（刘浩若）</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Haohui Li (李浩辉)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Chenhao Zhang (张晨昊)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Shuqing Luo (罗书卿)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Haoruo Liu (刘浩若)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">Image/Video Quality Assessment</th>
@@ -176,20 +176,20 @@ Title = "People"
             <img src="/img/portraits/liangxiaoyu.jpg" alt="LiangXiaoyu" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/unknown.jpg" alt="YeYuqi" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/yeyuqi.png" alt="YeYuqi" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h3>Kaiyu Zheng（郑凯予）</h3></th>
-        <th style="text-align: center"><h3>Yao Li（李要）</h3></th>
-        <th style="text-align: center"><h3>Xiaoyu Liang（梁小雨）</h3></th>
-        <th style="text-align: center"><h3>Yuqi Ye（叶毓祺）</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Kaiyu Zheng (郑凯予)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Yao Li (李要)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Xiaoyu Liang (梁小雨)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Yuqi Ye (叶毓祺)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">Point Cloud Compression</th>
         <th style="text-align: center">Model Compression and Acceleration</th>
         <th style="text-align: center">AIGC quality assessment，3D object detection</th>
-        <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
+        <th style="text-align: center">LLM Understanding, Autonomous Driving</th>
     </tr>
     <tr>
         <th style="text-align: center">
@@ -206,10 +206,10 @@ Title = "People"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h3>Kangli Wang（王康立）</h3></th>
-        <th style="text-align: center"><h3>Changhao Peng（彭昌浩）</h3></th>
-        <th style="text-align: center"><h3>Shihao Li（李世豪）</h3></th>
-        <th style="text-align: center"><h3>Chengwei Wang（王诚威）</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Kangli Wang (王康立)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Changhao Peng (彭昌浩)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Shihao Li (李世豪)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Chengwei Wang (王诚威)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">Perception-inspired Intelligent Video Coding Optimization</th>
@@ -232,10 +232,10 @@ Title = "People"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h3>Zijian Zhang（张梓坚）</h3></th>
-        <th style="text-align: center"><h3>Linhui Wang（汪林辉）</h3></th>
-        <th style="text-align: center"><h3>Junlin Li（黎俊林）</h3></th>
-        <th style="text-align: center"><h3>Guanzhou Chen（陈冠洲）</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Zijian Zhang (张梓坚)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Linhui Wang (汪林辉)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Junlin Li (黎俊林)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Guanzhou Chen (陈冠洲)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">Autonomous Driving</th>
@@ -265,10 +265,10 @@ Title = "People"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h3>Zhaojian Yao（姚钊健）</h3></th>
-        <th style="text-align: center"><h3>Hang Yuan（袁航）</h3></th>
-        <th style="text-align: center"><h3>Songlin Fan（范松林）</h3></th>
-        <th style="text-align: center"><h3>Zhanyuan Cai（蔡占元）</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Zhaojian Yao (姚钊健)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Hang Yuan (袁航)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Songlin Fan (范松林)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Zhanyuan Cai (蔡占元)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">PostDoc 2022-2024</th>
@@ -291,10 +291,10 @@ Title = "People"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h3>Jianing Chen（陈家宁）</h3></th>
-        <th style="text-align: center"><h3>Lvfang Tao（陶履方）</h3></th>
-        <th style="text-align: center"><h3>Fangyu Shen（沈芳羽）</h3></th>
-        <th style="text-align: center"><h3>Xiaoyu Zhang（张晓玉）</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Jianing Chen (陈家宁)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Lvfang Tao (陶履方)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Fangyu Shen (沈芳羽)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Xiaoyu Zhang (张晓玉)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">MPhil 2019-2022</th>
@@ -317,10 +317,10 @@ Title = "People"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h3>Linjie Zhou（周琳洁）</h3></th>
-        <th style="text-align: center"><h3>Zixuan Guo（郭子轩）</h3></th>
-        <th style="text-align: center"><h3>Dinghao Yang（杨丁豪）</h3></th>
-        <th style="text-align: center"><h3>Yang Guo（郭洋）</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Linjie Zhou (周琳洁)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Zixuan Guo (郭子轩)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Dinghao Yang (杨丁豪)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Yang Guo (郭洋)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">MPhil 2019-2022</th>
@@ -343,10 +343,10 @@ Title = "People"
         </th>
     </tr>
     <tr>
-        <th style="text-align: center"><h3>Guibiao Liao（廖桂标）</h3></th>
-        <th style="text-align: center"><h3>Yuyang Wu（伍宇阳）</h3></th>
-        <th style="text-align: center"><h3>Yang Wang（王洋）</h3></th>
-        <th style="text-align: center"><h3>Zhiyang Qi（祁志洋）</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Guibiao Liao (廖桂标)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Yuyang Wu (伍宇阳)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Yang Wang (王洋)</h3></th>
+        <th style="text-align: center"><h3 style=";font-size:22px">Zhiyang Qi (祁志洋)</h3></th>
     </tr>
     <tr>
         <th style="text-align: center">MPhil 2020-2023</th>
@@ -363,8 +363,8 @@ Title = "People"
         </th>
     </tr>
     <tr>
-        <th colspan="2" style="text-align: center"><h3>Xijing Lu（卢西婧）</h3></th>
-        <th colspan="2" style="text-align: center"><h3>Zetao Yang（杨泽涛）</h3></th>
+        <th colspan="2" style="text-align: center"><h3>Xijing Lu (卢西婧)</h3></th>
+        <th colspan="2" style="text-align: center"><h3>Zetao Yang (杨泽涛)</h3></th>
     </tr>
     <tr>
         <th colspan="2" style="text-align: center">MPhil 2021-2024</th>
