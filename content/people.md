@@ -42,8 +42,8 @@ Title = "People"
         <th colspan="2" style="text-align: center"><h3>Jingxuan Su (苏靖萱)</h3></th>
     </tr>
     <tr>
-        <th colspan="2" style="text-align: center">Multimedia Processing</th>
-        <th colspan="2" style="text-align: center">Multimedia Processing</th>
+        <th colspan="2" style="text-align: center">Low-level Vision</th>
+        <th colspan="2" style="text-align: center">3DGS and Quality Assessment</th>
     </tr>
 </table>
 

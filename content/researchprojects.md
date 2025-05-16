@@ -373,7 +373,7 @@ The research work includes light-weight algorithms and models, hardware accelera
             onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';"
         >
         <div>
-            <b>OpenFastVC: An Open Source Library for Video Coding Fast Algorithm Implementation,</b> <br>
+            <b>OpenFastVC: An Open Source Library for Video Coding Fast Algorithm Implementation</b> <br>
             <!-- H. Yuan and <b>W. Gao*</b> <br> -->
             <b>ACM MM</b>, 2023. <br>
         </div>
