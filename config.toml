@@ -159,6 +159,12 @@ tag = "tags"
       url = "/resources"
       weight = 8
 
+  [[menu.main]]
+      identifier = "gallery"
+      name = "Gallery"
+      url = "/gallery"
+      weight = 9
+
 #  [[menu.main]]
 #      parent = "publications"
 #      name = "Journal & Conference Papers"
