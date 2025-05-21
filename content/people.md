@@ -12,7 +12,7 @@ Title = "People"
     <tr>
         <!-- 路径以public目录下为准 -->
         <th colspan="4" style="text-align: center">
-            <img src="/img/portraits/gaowei.jpg" alt="Gaowei" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/gaowei.jpg" alt="Gaowei" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
@@ -31,10 +31,10 @@ Title = "People"
     <tr>
         <!-- 路径以public目录下为准 -->
         <th colspan="2" style="text-align: center">
-            <img src="/img/portraits/wangshunzhou.jpg" alt="WangShunzhou" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/wangshunzhou.jpg" alt="WangShunzhou" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th colspan="2" style="text-align: center">
-            <img src="/img/portraits/sujingxuan.jpg" alt="SuJingxuan" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/sujingxuan.jpg" alt="SuJingxuan" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
@@ -55,16 +55,16 @@ Title = "People"
     </tr>
     <tr>
         <th style="text-align: center">
-            <img src="/img/portraits/liuwang.jpg" alt="LiuWang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/liuwang.jpg" alt="LiuWang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/zhenghuiming.jpg" alt="ZhengHuiming" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/zhenghuiming.jpg" alt="ZhengHuiming" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/xieliang.jpg" alt="XieLiang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/xieliang.jpg" alt="XieLiang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/wenxugao.jpg" alt="GaoWenxu" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/wenxugao.jpg" alt="GaoWenxu" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
@@ -81,16 +81,16 @@ Title = "People"
     </tr>
     <tr>
         <th style="text-align: center">
-            <img src="/img/portraits/sunshangkun.png" alt="SunShangkun" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/sunshangkun.jpg" alt="SunShangkun" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-           <img src="/img/portraits/junhonglin.jpg" alt="LinJunhong" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+           <img src="/img/portraits/tiny/junhonglin.jpg" alt="LinJunhong" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/yiqianxi.jpg" alt="YiQianxi" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/yiqianxi.jpg" alt="YiQianxi" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/chengwei.jpg" alt="ChengWei" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/chengwei.jpg" alt="ChengWei" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
@@ -115,16 +115,16 @@ Title = "People"
     </tr>
     <tr>
         <th style="text-align: center">
-            <img src="/img/portraits/yuzhuozhen.jpg" alt="YuZhuozhen" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/yuzhuozhen.jpg" alt="YuZhuozhen" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/mouxingming.jpg" alt="MouXingming" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/mouxingming.jpg" alt="MouXingming" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/qubowen.jpg" alt="QuBowen" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/qubowen.jpg" alt="QuBowen" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/liyuan.jpg" alt="Liyuan" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/liyuan.jpg" alt="Liyuan" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
@@ -141,16 +141,16 @@ Title = "People"
     </tr>
     <tr>
         <th style="text-align: center">
-            <img src="/img/portraits/lihaohui.jpg" alt="LiHaohui" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/lihaohui.jpg" alt="LiHaohui" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-           <img src="/img/portraits/chenhaozhang.jpg" alt="ZhangChenhao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+           <img src="/img/portraits/tiny/chenhaozhang.jpg" alt="ZhangChenhao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/luoshuqing.jpg" alt="LuoShuqing" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/luoshuqing.jpg" alt="LuoShuqing" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/liuhaoruo.jpg" alt="LiuHaoruo" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/liuhaoruo.jpg" alt="LiuHaoruo" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
@@ -167,16 +167,16 @@ Title = "People"
     </tr>
     <tr>
         <th style="text-align: center">
-            <img src="/img/portraits/kaiyuzheng.jpg" alt="ZhengKaiyu" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/kaiyuzheng.jpg" alt="ZhengKaiyu" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/yaoli.jpg" alt="LiYao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/yaoli.jpg" alt="LiYao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/liangxiaoyu.jpg" alt="LiangXiaoyu" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/liangxiaoyu.jpg" alt="LiangXiaoyu" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/yeyuqi.png" alt="YeYuqi" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/yeyuqi.png" alt="YeYuqi" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
@@ -193,16 +193,16 @@ Title = "People"
     </tr>
     <tr>
         <th style="text-align: center">
-            <img src="/img/portraits/kangliwang.jpg" alt="WangKangli" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/kangliwang.jpg" alt="WangKangli" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/changhaopeng.jpg" alt="PengChanghao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/changhaopeng.jpg" alt="PengChanghao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/shihaoli.jpg" alt="LiShihao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/shihaoli.jpg" alt="LiShihao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/chengweiwang.jpg" alt="WangChengwei" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/chengweiwang.jpg" alt="WangChengwei" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
@@ -219,16 +219,16 @@ Title = "People"
     </tr>
     <tr>
         <th style="text-align: center">
-            <img src="/img/portraits/zijianzhang.jpg" alt="ZhangZijian" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/zijianzhang.jpg" alt="ZhangZijian" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/wanglinhui.jpg" alt="WangLinhui" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/wanglinhui.jpg" alt="WangLinhui" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/junlinli.jpg" alt="LiJunlin" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/junlinli.jpg" alt="LiJunlin" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/chenguanzhou.jpg" alt="ChenGuanzhou" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/chenguanzhou.jpg" alt="ChenGuanzhou" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
@@ -252,16 +252,16 @@ Title = "People"
     </tr>
     <tr>
         <th style="text-align: center">
-            <img src="/img/portraits/yaozhaojian.jpg" alt="YaoZhaojian" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/yaozhaojian.jpg" alt="YaoZhaojian" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/yuanhang.jpg" alt="YuanHang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/yuanhang.jpg" alt="YuanHang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/fansonglin.jpg" alt="FanSonglin" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/fansonglin.jpg" alt="FanSonglin" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/caizhanyuan.jpg" alt="CaiZhanyuan" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/caizhanyuan.jpg" alt="CaiZhanyuan" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
@@ -278,16 +278,16 @@ Title = "People"
     </tr>
     <tr>
         <th style="text-align: center">
-            <img src="/img/portraits/chenjianing.jpg" alt="ChenJianing" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/chenjianing.jpg" alt="ChenJianing" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/taolvfang.jpg" alt="TaoLvfang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/taolvfang.jpg" alt="TaoLvfang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/shenfangyu.jpg" alt="ShenFangyu" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/shenfangyu.jpg" alt="ShenFangyu" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/zhangxiaoyu.jpg" alt="ZhangXiaoyu" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/zhangxiaoyu.jpg" alt="ZhangXiaoyu" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
@@ -304,16 +304,16 @@ Title = "People"
     </tr>
     <tr>
         <th style="text-align: center">
-            <img src="/img/portraits/zhoulinjie.jpg" alt="ZhouLinjie" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/zhoulinjie.jpg" alt="ZhouLinjie" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/guozixuan.jpg" alt="GuoZixuan" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/guozixuan.jpg" alt="GuoZixuan" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/yangdinghao.jpg" alt="YangDinghao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/yangdinghao.jpg" alt="YangDinghao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/guoyang.jpg" alt="GuoYang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/guoyang.jpg" alt="GuoYang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
@@ -330,16 +330,16 @@ Title = "People"
     </tr>
     <tr>
         <th style="text-align: center">
-            <img src="/img/portraits/liaoguibiao.jpg" alt="LiaoGuibiao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/liaoguibiao.jpg" alt="LiaoGuibiao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/wuyuyang.png" alt="WuYuyang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/wuyuyang.png" alt="WuYuyang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/wangyang.jpg" alt="WangYang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/wangyang.jpg" alt="WangYang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th style="text-align: center">
-            <img src="/img/portraits/qizhiyang.jpg" alt="QiZhiyang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/qizhiyang.jpg" alt="QiZhiyang" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
@@ -356,10 +356,10 @@ Title = "People"
     </tr>
     <tr>
         <th colspan="2" style="text-align: center">
-            <img src="/img/portraits/luxijing.jpg" alt="LuXijing" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/luxijing.jpg" alt="LuXijing" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
         <th colspan="2" style="text-align: center">
-            <img src="/img/portraits/yangzetao.jpg" alt="YangZetao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
+            <img src="/img/portraits/tiny/yangzetao.jpg" alt="YangZetao" style="width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;">
         </th>
     </tr>
     <tr>
